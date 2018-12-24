@@ -161,3 +161,38 @@ body{
     }
   }
 }
+
+.rent{
+  min-height: 200px;
+  margin-top: 52px;
+  margin-bottom: 42px;
+  display: flex;
+  align-items: center;
+  position: relative;
+  .content {
+    position: relative;
+    z-index: 10;
+    left: 100px;
+    h2 {
+      margin: 0;
+      font-size: 48px;
+      letter-spacing: -2.1px;
+      font-weight: 900;
+      span {
+        display: block;
+        color: #29aa73;
+      }
+    }
+    &:after{
+      z-index: -1;
+      content: '';
+      position: absolute;
+      width: 211px;
+      height: 211px;
+      display: block;
+      border: solid rgb(237,237,237) 20px;
+      top: -44px;
+      left: -120px;
+    }
+  }
+}
