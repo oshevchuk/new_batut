@@ -31,7 +31,7 @@ var path = {
         html: "src/**/*.html",
         js: 'src/js/**/*.js',
         style: 'src/style/*.scss',
-        img: 'src/img/*.*'
+        img: 'src/img/**/*.*'
     },
     clean: './build'
 };
