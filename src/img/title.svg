@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="221" height="62" viewBox="0 0 221 62">
+    <g fill="none" fill-rule="evenodd" transform="translate(-2 -3)">
+        <rect width="16" height="80" x="183.941" y="-6.059" fill="#9B3EC4" fill-rule="nonzero" rx="8" transform="rotate(45 191.941 33.941)"/>
+        <rect width="16" height="80" x="146.941" y="-6.059" fill="#29AA73" fill-rule="nonzero" rx="8" transform="rotate(45 154.941 33.941)"/>
+        <text fill="#000" font-family="Montserrat-Black, Montserrat" font-size="36" font-weight="700">
+            <tspan x="0" y="43">Н</tspan> <tspan x="29.304" y="43" letter-spacing=".7"> </tspan> <tspan x="52.304" y="43">винки</tspan>
+        </text>
+        <path fill="#29AA73" fill-rule="nonzero" d="M30.035 37.459c.258-.902 2.011-.11 5.073 1.048 1.688.639 3.86.988 5.16.988 1.298 0 3.482-.335 4.79-.832 4.392-1.669 5.461-2.104 5.7-1.204.491 1.856-3.412 7.259-10.49 7.259-7.08 0-10.663-5.76-10.233-7.26z"/>
+        <text fill="#000" font-family="Montserrat-Black, Montserrat" font-size="36" font-weight="700">
+            <tspan x="28" y="35">о</tspan>
+        </text>
+    </g>
+</svg>

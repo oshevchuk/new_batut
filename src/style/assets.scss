@@ -1,0 +1,39 @@
+.container-fluid{
+  position: relative;
+}
+
+.asset1{
+  position: absolute;
+  z-index: -1;
+  width: 100px;
+  height: 121px;
+  left: 50%;
+  top: calc(50% - 50px);
+}
+.asset2{
+  position: absolute;
+  z-index:-1;
+  right: 10%;
+  top:calc(50% - 50px);
+}
+
+.asset3{
+  position: absolute;
+  z-index:1;
+  left: 2%;
+  top: 25%;
+}
+
+.asset4{
+  position: absolute;
+  z-index:0;
+  top: -16px;
+  right: 30%;
+}
+
+.asset5{
+  position: absolute;
+  z-index:0;
+  bottom: 10%;
+  right: 5%;
+}
