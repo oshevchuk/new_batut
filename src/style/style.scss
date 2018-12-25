@@ -245,7 +245,7 @@ body{
   .container{
     position: relative;
     z-index:2;
-    .row{
+    .row
       position: relative;
       z-index:3;
     }
@@ -273,4 +273,8 @@ body{
       }
     }
   }
+}
+
+.novelty{
+
 }
