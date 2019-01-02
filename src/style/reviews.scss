@@ -1,0 +1,59 @@
+.reviews{
+  .container{
+    position: relative;
+    z-index:1;
+    .title{
+      padding-top: 43px;
+      padding-bottom: 62px;
+      display: flex;
+      justify-content: space-between;
+      .pic{
+        width: 300px;
+      }
+      .persons{
+        width: calc(100% - 300px);
+        display: flex;
+        justify-content: space-between;
+        img{
+          border-radius: 50%;
+        }
+      }
+    }
+    .agency{
+      display: flex;
+      justify-content: space-between;
+      padding-bottom: 52px;
+      .pic{
+        width: 30%;
+        img{
+          border-radius: 50%;
+          width: 65%;
+        }
+      }
+      .text{
+        width: 70%;
+        h4{
+          font-size: 26px;
+          font-weight: 900;
+          color: black;
+          margin-top: 0px;
+          margin-bottom: 26px;
+        }
+        p{
+          font-size: 16px;
+          line-height: 1.38;
+          color: #000;
+          min-height: 165px;
+        }
+        .navigation{
+          display: flex;
+          justify-content: space-between;
+          width: 50px;
+          .left {
+            transform: scale(-1, 1);
+          }
+        }
+      }
+    }
+  }
+}

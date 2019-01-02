@@ -86,7 +86,7 @@ gulp.task('img:build', function () {
        .pipe(reload({stream: true}));
 });
 
-gulp.task('build', ['html:build', 'js:build', 'style:build', 'img:build']);
+gulp.task('build', ['html:build', 'js:build', 'style:build', 'img:']);
 
 gulp.task('watch', function () {
     watch([path.watch.js], function () {
