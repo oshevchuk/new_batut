@@ -1,0 +1,42 @@
+.footer{
+  .container{
+    position: relative;
+    z-index:1;
+  }
+  .top{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid white;
+    .menu{
+      li{
+        a{
+
+        }
+      }
+    }
+  }
+  .bottom{
+    display: flex;
+    justify-content: space-between;
+    p{
+
+    }
+    .social{
+      a{
+        img{
+
+        }
+      }
+    }
+    .get_call{
+      a{
+
+      }
+    }
+    .phone_numbers{
+      p{
+
+      }
+    }
+  }
+}
